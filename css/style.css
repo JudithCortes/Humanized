@@ -402,7 +402,6 @@ align-items: center;
         height: 90px;
     }
 
-   
 }
 
 @media screen and (max-width: 1032px){
@@ -428,7 +427,6 @@ align-items: center;
         flex-direction: column;
         }
     .humanized{
-
         height: 200px;
         margin-top: none;
         margin-bottom: 150px;
