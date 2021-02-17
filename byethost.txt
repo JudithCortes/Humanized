@@ -1,0 +1,30 @@
+datos byethost
+humaized
+
+
+
+Your account is now active.
+Main Hosting Details
+Control panel username
+b8_27918314
+Control panel password	**********
+Control panel URL
+cpanel.byethost8.com
+MySQL username
+b8_27918314
+MySQL password
+**********
+MySQL hostname
+sql209.byethost8.com
+FTP username
+b8_27918314
+FTP password
+**********
+FTP host name	ftp.byethost8.com
+
+
+Your Website URL's
+Home page
+http://humanized.byethost8.com
+Thank you for choosing us to host your websites!
+
